@@ -1,0 +1,6 @@
+framework module Pods_GoogleSignInExample_GoogleSignInExampleUITests {
+  umbrella header "Pods-GoogleSignInExample-GoogleSignInExampleUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
